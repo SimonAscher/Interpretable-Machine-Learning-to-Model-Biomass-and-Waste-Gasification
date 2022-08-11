@@ -1,0 +1,9 @@
+pandas~=1.4.3
+numpy~=1.23.1
+seaborn~=0.11.2
+matplotlib~=3.5.1
+scipy~=1.7.3
+shap~=0.39.0
+scikit-learn~=1.1.1
+xgboost~=1.5.0
+mlens~=0.2.3
