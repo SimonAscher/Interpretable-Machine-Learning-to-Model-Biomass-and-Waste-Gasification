@@ -2,4 +2,4 @@
 
 This repository contains the data set and code used to develop machine learning (ML) models to model the gasification of biomass and waste feedstocks. Various ML algorithms and interpretability methods are compared.
 
-The accompanying paper is available under DOI: 10.1016/j.biortech.2022.128062
+The accompanying paper is available under: https://doi.org/10.1016/j.biortech.2022.128062
